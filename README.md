@@ -11,5 +11,5 @@ Fecha: 27/09/23
 Duarte Vázquez Kevin Alexis.
 
 # Resultados:
-<img src="Regresion_Lineal.jpg">
-<img src="Resultado 0.png">
+<img src="Regresion_Lineal.png">
+<img src="Resultado_RL.jpg">
